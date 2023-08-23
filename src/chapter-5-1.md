@@ -1,5 +1,4 @@
 
-
 Data collection and analysis are critical components of time management. In this chapter, we will discuss the importance of data collection and analysis for time management.
 
 Identifying Areas for Improvement

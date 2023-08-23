@@ -1,5 +1,4 @@
 
-
 Choosing the right artificial intelligence (AI) tools and technologies is critical to maximizing the benefits of AI for time management. In this chapter, we will provide an overview of AI tools and technologies for time management.
 
 AI-Assisted Scheduling
