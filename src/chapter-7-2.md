@@ -1,5 +1,4 @@
-Chapter: Best Practices for AI Implementation in Email Management, Virtual Meetings, and Team Coordination
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
